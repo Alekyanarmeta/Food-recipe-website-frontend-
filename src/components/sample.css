@@ -1,0 +1,74 @@
+.u1 {
+    width: 50vw;
+    background-color: aqua;
+    transition: 500ms ease;
+    transform: skew(1deg, 1deg);
+}
+
+.u1:hover {
+    width: 100vw;
+    transform: translateX(-50px) scaleX(-1);
+}
+
+/* POSTER MAIN BOX */
+.pst {
+    background-color: burlywood;
+    width: auto;
+    height: 45vh;
+    position: relative; /* IMPORTANT for img absolute position */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Poster images */
+.pst-img {
+    position: absolute;
+    width: 40vw;
+    height: 30vh;
+    background-repeat: no-repeat;
+    transition: 1000ms ease;
+}
+
+@media (min-width: 800px) {
+    .pst-img {
+        width: 25vw;
+        height: 30vh;
+    }
+}
+
+.img2 {
+    top: 1%;
+    left: -40px;
+    border-radius: 10px 50px 50px;
+}
+
+.img3 {
+    bottom: 1%;
+    right: -5px;
+    border-radius: 50px 50px 10px;
+}
+
+/* Hover Animations */
+.pst:hover .img2 {
+    transform: rotate(100deg) translate(-10px, 300px);
+}
+
+.pst:hover .img3 {
+    transform: rotate(100deg) translate(-10px, -350px);
+}
+
+/* Types scroll */
+.types {
+    overflow-x: scroll;
+    flex-wrap: nowrap;
+    width: auto;
+    white-space: nowrap;
+    gap:5%;
+    background-color: darkolivegreen;
+}
+
+.u{
+    width:280px;
+    height:300px
+}

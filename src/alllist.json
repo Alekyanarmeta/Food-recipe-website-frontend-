@@ -1,0 +1,2186 @@
+{
+    "categorylist": {
+        "Breakfast Recipes": [
+            {
+                "name": "Idli",
+               "image":"https://tse3.mm.bing.net/th/id/OIP.acHMl7OKBxP2eZEgFZ7bJgHaFj?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups idli batter (fermented)",
+                    "Grease for idli plates"
+                ],
+                "procedure": [
+                    "1. Grease the idli plates with oil.",
+                    "2. Pour the fermented idli batter into the molds.",
+                    "3. Steam for 10–12 minutes until soft and fluffy.",
+                    "4. Let it cool for 2 minutes, then remove idlis.",
+                    "5. Serve hot with coconut chutney or sambar."
+                ]
+            },
+            {
+                "name": "Dosa",
+               "image":"https://tse2.mm.bing.net/th/id/OIP.6Nx_C1m4YCujBiHe48YpHAHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups dosa batter (fermented)",
+                    "Oil for cooking"
+                ],
+                "procedure": [
+                    "1. Heat a non-stick pan or tawa.",
+                    "2. Pour a ladle of batter and spread thinly in a circular motion.",
+                    "3. Drizzle some oil around edges.",
+                    "4. Cook until golden and crisp, flip if desired.",
+                    "5. Serve with chutney or sambar."
+                ]
+            },
+            {
+                "name": "Omelette",
+               "image":"https://tse2.mm.bing.net/th/id/OIP.OsuYG9m5M923nq9iQJ8RDAHaFj?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 eggs",
+                    "1 small onion chopped",
+                    "1 green chili chopped",
+                    "Salt and pepper to taste",
+                    "1 tsp oil"
+                ],
+                "procedure": [
+                    "1. Beat eggs with salt and pepper.",
+                    "2. Add onion and chili.",
+                    "3. Heat oil in pan, pour mixture, cook until set.",
+                    "4. Fold and serve hot."
+                ]
+            },
+            {
+                "name": "Pancakes",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.xHIV4U37XqNd_n8Yg-DntAHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup flour",
+                    "1 cup milk",
+                    "1 egg",
+                    "1 tsp sugar",
+                    "1 tsp baking powder",
+                    "1 tbsp butter"
+                ],
+                "procedure": [
+                    "1. Mix flour, baking powder, sugar, milk, and egg into a smooth batter.",
+                    "2. Heat a non-stick pan, pour a small amount.",
+                    "3. Cook until bubbles appear, flip and cook other side.",
+                    "4. Serve with syrup or fruits."
+                ]
+            },
+            {
+                "name": "Poha",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.7Uz573HzqgbDGzwakXE2PQHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup flattened rice",
+                    "1 onion chopped",
+                    "1/4 cup peanuts",
+                    "1/2 tsp turmeric",
+                    "1 tsp mustard seeds",
+                    "1 tsp oil",
+                    "Lemon juice"
+                ],
+                "procedure": [
+                    "1. Wash flattened rice and drain.",
+                    "2. Heat oil, add mustard seeds, sauté onion until translucent.",
+                    "3. Add turmeric and peanuts, roast briefly.",
+                    "4. Add poha, mix gently, cook 2–3 minutes.",
+                    "5. Add lemon juice and serve."
+                ]
+            },
+            {
+                "name": "Upma",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.boBBw90ShLIHl5l9pQvbQgHaE7?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup rava/semolina",
+                    "1 onion chopped",
+                    "1 tsp mustard seeds",
+                    "1 green chili chopped",
+                    "2 cups water",
+                    "1 tsp oil"
+                ],
+                "procedure": [
+                    "1. Roast rava until light golden, keep aside.",
+                    "2. Heat oil, add mustard seeds, sauté onions and chili.",
+                    "3. Add water and bring to boil.",
+                    "4. Slowly add roasted rava, stirring continuously to avoid lumps.",
+                    "5. Cook until thick, serve hot."
+                ]
+            },
+            {
+                "name": "Sandwich",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.nh5Yw1jvcHqfoDPk0OIRAgHaFj?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 slices bread",
+                    "Butter",
+                    "Vegetables (tomato, cucumber, lettuce)",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Spread butter on bread slices.",
+                    "2. Layer vegetables on one slice.",
+                    "3. Sprinkle salt and pepper.",
+                    "4. Cover with second slice, cut diagonally.",
+                    "5. Toast if desired and serve."
+                ]
+            },
+            {
+                "name": "French Toast",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.sD9m1YZIkH13OklnDUl1JAHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 slices bread",
+                    "1 egg",
+                    "1/4 cup milk",
+                    "1 tsp sugar",
+                    "1/2 tsp cinnamon",
+                    "Butter"
+                ],
+                "procedure": [
+                    "1. Beat egg, milk, sugar, and cinnamon in a bowl.",
+                    "2. Dip bread slices into the mixture, coating both sides.",
+                    "3. Heat butter in pan, fry slices until golden on both sides.",
+                    "4. Serve with honey or syrup."
+                ]
+            },
+            {
+                "name": "Paratha",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.APKUcDv9yRSmG9aPVud3XQHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup wheat flour",
+                    "Water as needed",
+                    "Oil or ghee for cooking"
+                ],
+                "procedure": [
+                    "1. Knead wheat flour with water into soft dough.",
+                    "2. Divide into balls, roll out into circles.",
+                    "3. Cook on hot tawa, apply oil/ghee, flip until golden.",
+                    "4. Serve with curd or pickle."
+                ]
+            },
+            {
+                
+                
+                "name": "Porridge",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.18tuoiKq5MNgosgy82bK7gHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1/2 cup oats",
+                    "1 cup milk or water",
+                    "Honey or sugar",
+                    "Fruits for topping"
+                ],
+                "procedure": [
+                    "1. Boil milk/water in a saucepan.",
+                    "2. Add oats, cook on medium flame for 3–5 minutes.",
+                    "3. Stir continuously until thickened.",
+                    "4. Sweeten with honey or sugar.",
+                    "5. Serve topped with fruits."
+                ]
+            }
+        ],
+        "Lunch / Dinner Recipes": [
+            {
+                "name": "Plain Rice",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.zkeNI9hFEtSlhxbtBzjZ0AHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup rice",
+                    "2 cups water",
+                    "Salt to taste"
+                ],
+                "procedure": [
+                    "1. Wash rice under running water until water runs clear.",
+                    "2. Soak rice for 20–30 minutes.",
+                    "3. Boil water, add rice and salt.",
+                    "4. Cover and cook on low flame until water is absorbed.",
+                    "5. Fluff and serve hot."
+                ]
+            },
+            {
+                "name": "Vegetable Curry",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.8IegM9YNuA_E1qStJSP94wHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups mixed vegetables",
+                    "1 onion",
+                    "1 tomato",
+                    "1 tsp ginger-garlic paste",
+                    "Spices (turmeric, cumin, coriander, garam masala)",
+                    "2 tbsp oil",
+                    "Salt to taste"
+                ],
+                "procedure": [
+                    "1. Heat oil, add cumin seeds and onions, sauté until golden.",
+                    "2. Add ginger-garlic paste, cook 1–2 minutes.",
+                    "3. Add tomato puree and spices, cook until oil separates.",
+                    "4. Add vegetables, cover, simmer 10–15 minutes.",
+                    "5. Garnish with coriander, serve hot."
+                ]
+            },
+            {
+                "name": "Roti",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.FDwIw_jUWoMIWuuWBpxp2gHaFX?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup wheat flour",
+                    "Water as needed",
+                    "Salt to taste"
+                ],
+                "procedure": [
+                    "1. Knead wheat flour with water and salt to make soft dough.",
+                    "2. Divide into balls, roll out into circles.",
+                    "3. Cook on hot tawa until golden and puffed.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Sabzi",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.XeaDjCxypLGzEy_Fo3iUuwHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups mixed vegetables",
+                    "1 tsp cumin seeds",
+                    "Spices as needed",
+                    "2 tbsp oil",
+                    "Salt to taste"
+                ],
+                "procedure": [
+                    "1. Heat oil, add cumin seeds and sauté.",
+                    "2. Add vegetables and spices, cook until tender.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Dal",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.QEKTMDKoIoOqx1IlAsYudwHaFn?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup lentils",
+                    "2 cups water",
+                    "1 tsp turmeric",
+                    "1 tsp cumin",
+                    "Salt to taste",
+                    "2 tbsp ghee/oil"
+                ],
+                "procedure": [
+                    "1. Wash lentils and pressure cook with water and turmeric until soft.",
+                    "2. Heat ghee, add cumin, pour over cooked dal.",
+                    "3. Stir and serve hot."
+                ]
+            },
+            {
+                "name": "Biryani",
+                "image":"https://tse1.mm.bing.net/th/id/OIP._rTsdRFBYd_7RwuIpTgu9AHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups rice",
+                    "500g chicken or vegetables",
+                    "Spices",
+                    "Curd 1/2 cup",
+                    "Fried onions",
+                    "2 tbsp oil"
+                ],
+                "procedure": [
+                    "1. Marinate chicken/veg with curd and spices for 30 min.",
+                    "2. Cook half-cooked rice separately.",
+                    "3. Layer rice and chicken/veg, add fried onions.",
+                    "4. Cook on low flame (dum) for 20–25 min.",
+                    "5. Serve hot with raita."
+                ]
+            },
+            {
+                "name": "Fried Rice",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.fV68xzkH66ZxND2SA2N2xwHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups cooked rice",
+                    "1 cup mixed vegetables",
+                    "2 tbsp soy sauce",
+                    "1 tbsp oil",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Heat oil, sauté vegetables until tender.",
+                    "2. Add rice and soy sauce, mix well on high flame.",
+                    "3. Season with salt and pepper, serve hot."
+                ]
+            },
+            {
+                "name": "Pasta",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.aZIox7CexrysARRICcVj1AHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "200g pasta",
+                    "1 cup vegetables",
+                    "1/2 cup tomato sauce",
+                    "Salt and pepper",
+                    "1 tbsp olive oil"
+                ],
+                "procedure": [
+                    "1. Boil pasta until al dente, drain.",
+                    "2. Heat oil, sauté vegetables, add tomato sauce.",
+                    "3. Mix pasta with sauce, serve hot."
+                ]
+            },
+            {
+                "name": "Soup",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.liz05ScTqQLiyvwe-R9MQAHaGM?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups vegetables or chicken",
+                    "4 cups stock",
+                    "Salt and pepper",
+                    "1 tsp oil"
+                ],
+                "procedure": [
+                    "1. Heat oil, sauté vegetables if using.",
+                    "2. Add stock, bring to boil.",
+                    "3. Cook until ingredients are tender.",
+                    "4. Blend if desired, season, and serve hot."
+                ]
+            },
+            {
+                "name": "Raita",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.SJURlc-KEDVj54K7P5-U3AHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup yogurt",
+                    "1/2 cup cucumber chopped",
+                    "Salt and spices to taste"
+                ],
+                "procedure": [
+                    "1. Whisk yogurt until smooth.",
+                    "2. Add chopped cucumber and spices.",
+                    "3. Mix well and serve chilled."
+                ]
+            }
+        ],
+        "Snacks & Appetizers": [
+            {
+                "name": "Pakoda",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.yx3dOM7FEonPILzKdmps6wHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup gram flour",
+                    "1 onion sliced",
+                    "1 tsp chili powder",
+                    "Salt to taste",
+                    "Oil for frying"
+                ],
+                "procedure": [
+                    "1. Mix gram flour, chili powder, and salt.",
+                    "2. Add sliced onions and mix to form thick batter.",
+                    "3. Heat oil in a pan.",
+                    "4. Drop spoonfuls of batter into hot oil.",
+                    "5. Fry until golden brown and crispy. Serve hot."
+                ]
+            },
+            {
+                "name": "French Fries",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.1PR3E78RsQS8lcPjuP993QHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "3 large potatoes",
+                    "Salt to taste",
+                    "Oil for frying"
+                ],
+                "procedure": [
+                    "1. Peel and cut potatoes into sticks.",
+                    "2. Soak in water for 30 minutes to remove starch.",
+                    "3. Heat oil in a deep pan.",
+                    "4. Fry potatoes until golden and crispy.",
+                    "5. Drain excess oil, sprinkle salt, and serve."
+                ]
+            },
+            {
+                "name": "Momos",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.ZpVOIZYsNfhdfSlUqiSD4AHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups all-purpose flour",
+                    "1 cup vegetables or chicken minced",
+                    "Spices as needed",
+                    "Water"
+                ],
+                "procedure": [
+                    "1. Knead flour with water into smooth dough.",
+                    "2. Roll dough into thin circles.",
+                    "3. Place filling in center, fold and seal edges.",
+                    "4. Steam for 10–12 minutes until cooked.",
+                    "5. Serve with spicy chutney."
+                ]
+            },
+            {
+                "name": "Nachos",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.mkLvt-tUAqS4DeTsD89hjQHaEc?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Tortilla chips",
+                    "1 cup grated cheese",
+                    "Salsa sauce"
+                ],
+                "procedure": [
+                    "1. Spread tortilla chips on a baking tray.",
+                    "2. Sprinkle cheese over chips.",
+                    "3. Bake in preheated oven at 180°C for 5–7 minutes until cheese melts.",
+                    "4. Serve hot with salsa."
+                ]
+            },
+            {
+                "name": "Samosa",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.Eu-8U6RPjr59hcHp9-Ky8QHaHX?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup all-purpose flour",
+                    "1 cup boiled potatoes",
+                    "Spices",
+                    "Oil for frying"
+                ],
+                "procedure": [
+                    "1. Knead flour with water to form dough.",
+                    "2. Make potato filling with spices.",
+                    "3. Roll dough into circles, cut, fold cones, fill with potatoes, seal.",
+                    "4. Deep fry until golden brown.",
+                    "5. Serve with chutney."
+                ]
+            },
+            {
+                "name": "Cutlets",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.xOZFoID0fR2hxhldY3PDgQHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups mixed vegetables boiled and mashed",
+                    "1/2 cup bread crumbs",
+                    "Spices",
+                    "Oil for shallow frying"
+                ],
+                "procedure": [
+                    "1. Mix mashed vegetables with spices.",
+                    "2. Shape into small patties and coat with bread crumbs.",
+                    "3. Heat oil and shallow fry cutlets until golden.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Chaat",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.cHarsWSdDEwGtCnQcFMEQQHaEo?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Papdi or crisp base",
+                    "1/2 cup boiled potatoes",
+                    "Curd",
+                    "Chutneys",
+                    "Spices"
+                ],
+                "procedure": [
+                    "1. Arrange papdi on plate.",
+                    "2. Top with boiled potatoes, curd, and chutneys.",
+                    "3. Sprinkle spices and mix lightly.",
+                    "4. Serve immediately."
+                ]
+            },
+            {
+                "name": "Spring Rolls",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.OLqqWDbEhG1nes_VcstwKwHaE8?pid=Api&P=0&h=180",
+                
+                "ingredients": [
+                    "Spring roll wrappers",
+                    "1 cup vegetables chopped",
+                    "Soy sauce",
+                    "Oil for frying"
+                ],
+                "procedure": [
+                    "1. Stir-fry vegetables with soy sauce.",
+                    "2. Place filling on wrapper, fold and seal edges.",
+                    "3. Deep fry until crispy and golden.",
+                    "4. Serve hot with sauce."
+                ]
+            },
+            {
+                "name": "Paneer Tikka",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.mAs-ziEDbpRhyQ9PLZ4urgHaE7?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "200g paneer cubes",
+                    "1/2 cup yogurt",
+                    "Spices",
+                    "1 tsp oil"
+                ],
+                "procedure": [
+                    "1. Marinate paneer cubes with yogurt and spices for 30 minutes.",
+                    "2. Grill or pan-fry until slightly charred.",
+                    "3. Serve hot with mint chutney."
+                ]
+            },
+            {
+                "name": "Veg Pakora",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.qHteM8rTp4HUh4c68HqKkwHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup gram flour",
+                    "1 cup mixed vegetables sliced",
+                    "Spices",
+                    "Oil for frying"
+                ],
+                "procedure": [
+                    "1. Mix gram flour with spices to make batter.",
+                    "2. Dip vegetables into batter and fry in hot oil until golden.",
+                    "3. Drain and serve with chutney."
+                ]
+            }
+        ],
+        "Desserts": [
+            {
+                "name": "Gulab Jamun",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.G3PgBqy-X46fWxdaNVFE-QHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup khoya",
+                    "1/2 cup flour",
+                    "Sugar syrup prepared with 1 cup sugar and 1 cup water",
+                    "Oil for frying"
+                ],
+                "procedure": [
+                    "1. Mix khoya and flour to make dough.",
+                    "2. Shape into small balls.",
+                    "3. Deep fry on low flame until golden.",
+                    "4. Soak in warm sugar syrup for 30 minutes.",
+                    "5. Serve warm."
+                ]
+            },
+            {
+                "name": "Rasgulla",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.AJm0Zndzj24rzNJw32cKxQHaFN?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 liter milk",
+                    "2 tbsp lemon juice",
+                    "1 cup sugar syrup",
+                    "Water"
+                ],
+                "procedure": [
+                    "1. Boil milk, curdle using lemon juice to get chenna.",
+                    "2. Knead chenna until smooth, form small balls.",
+                    "3. Boil in sugar syrup until spongy and soft.",
+                    "4. Serve chilled or warm."
+                ]
+            },
+            {
+                "name": "Kheer",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.D8UDngGoVJSNlBJiV1bmrAHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1/2 cup rice",
+                    "1 liter milk",
+                    "1/2 cup sugar",
+                    "Cardamom",
+                    "Nuts for garnish"
+                ],
+                "procedure": [
+                    "1. Wash rice, cook in milk on low flame until soft.",
+                    "2. Add sugar and cardamom, simmer 5–10 min.",
+                    "3. Garnish with nuts and serve warm or chilled."
+                ]
+            },
+            {
+                "name": "Ice Cream",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.hQhKrL8WKbFWdf5w6tdP6wHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups milk",
+                    "1 cup cream",
+                    "1/2 cup sugar",
+                    "Flavors like vanilla or chocolate"
+                ],
+                "procedure": [
+                    "1. Heat milk and sugar until dissolved.",
+                    "2. Cool and mix cream and flavor.",
+                    "3. Freeze mixture, stirring occasionally to avoid ice crystals.",
+                    "4. Serve chilled."
+                ]
+            },
+            {
+                "name": "Cake",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.qB-xERJQSSAdTiOwfjQyaQHaJl?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup flour",
+                    "1/2 cup sugar",
+                    "2 eggs",
+                    "1/4 cup butter",
+                    "1/4 cup milk",
+                    "Baking powder"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 180°C.",
+                    "2. Cream butter and sugar, add eggs and milk.",
+                    "3. Mix flour and baking powder, fold into batter.",
+                    "4. Pour into greased pan, bake 25–30 min.",
+                    "5. Cool and serve."
+                ]
+            },
+            {
+                "name": "Pudding",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.S9ZyA3dohnincEqzGANoewHaE7?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups milk",
+                    "3 tbsp sugar",
+                    "2 tbsp cornflour",
+                    "Flavor essence"
+                ],
+                "procedure": [
+                    "1. Mix sugar and cornflour in a little milk to make slurry.",
+                    "2. Boil remaining milk, add slurry, cook until thick.",
+                    "3. Add flavor essence, pour into serving bowls.",
+                    "4. Chill and serve."
+                ]
+            },
+            {
+                "name": "Halwa",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.GdmlNs_gLaXZXPbC4HyAtQHaFj?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup semolina",
+                    "1/2 cup sugar",
+                    "1/4 cup ghee",
+                    "2 cups water",
+                    "Cardamom powder"
+                ],
+                "procedure": [
+                    "1. Heat ghee, roast semolina until light golden.",
+                    "2. Boil water and sugar, add to roasted semolina.",
+                    "3. Stir continuously, cook until thick.",
+                    "4. Add cardamom powder, serve hot."
+                ]
+            },
+            {
+                "name": "Brownie",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.TVFaHY8YDTU18BHJJM2lNQHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1/2 cup flour",
+                    "1/2 cup sugar",
+                    "1/4 cup cocoa powder",
+                    "2 eggs",
+                    "1/4 cup butter"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 180°C.",
+                    "2. Melt butter, mix with sugar and eggs.",
+                    "3. Add flour and cocoa powder, mix to smooth batter.",
+                    "4. Pour into pan, bake 20–25 min.",
+                    "5. Cool, cut into squares, serve."
+                ]
+            },
+            {
+                "name": "Ladoo",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.1OaoUIXGot6xjDfR7jEhwAHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup gram flour",
+                    "1/2 cup ghee",
+                    "1/2 cup sugar"
+                ],
+                "procedure": [
+                    "1. Roast gram flour in ghee until golden and aromatic.",
+                    "2. Add sugar, mix well.",
+                    "3. Shape into small balls while warm.",
+                    "4. Let cool and serve."
+                ]
+            },
+            {
+                "name": "Rasmalai",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.1OaoUIXGot6xjDfR7jEhwAHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Paneer balls (chenna)",
+                    "2 cups milk",
+                    "1/4 cup sugar",
+                    "Cardamom powder",
+                    "Saffron strands"
+                ],
+                "procedure": [
+                    "1. Boil milk, add sugar, cardamom, and saffron.",
+                    "2. Soak paneer balls in warm milk for at least 30 minutes.",
+                    "3. Serve chilled."
+                ]
+            }
+        ],
+        "Drinks & Beverages": [
+            {
+                "name": "Tea",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.GL5cVb7X14qUDxCqVPGiqgHaEc?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 tsp tea leaves",
+                    "1 cup water",
+                    "1/2 cup milk",
+                    "Sugar to taste"
+                ],
+                "procedure": [
+                    "1. Boil water, add tea leaves and simmer 2–3 minutes.",
+                    "2. Add milk and sugar, bring to boil.",
+                    "3. Strain into cup and serve hot."
+                ]
+            },
+            {
+                "name": "Coffee",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.ihHUxKtk3mL8A1iR7_WGWwHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 tsp coffee powder",
+                    "1 cup water",
+                    "1/2 cup milk",
+                    "Sugar to taste"
+                ],
+                "procedure": [
+                    "1. Boil water, add coffee powder, simmer 2 minutes.",
+                    "2. Add milk and sugar, boil briefly.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Milkshake",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.vAiCxspRQSkb0_-13txH1wHaJQ?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup milk",
+                    "2 scoops ice cream",
+                    "1/2 cup fruits (banana/strawberry)"
+                ],
+                "procedure": [
+                    "1. Blend milk, ice cream, and fruits until smooth.",
+                    "2. Serve chilled."
+                ]
+            },
+            {
+                "name": "Juice",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.-WqVPLfNGr89EsHQogTf7gHaEx?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups chopped fruits",
+                    "1/2 cup water",
+                    "Sugar if needed"
+                ],
+                "procedure": [
+                    "1. Blend fruits with water until smooth.",
+                    "2. Strain if desired, serve chilled."
+                ]
+            },
+            {
+                "name": "Smoothie",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.SnqlPGfM8fVxU2BAs1BkogHaLH?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup yogurt",
+                    "1 cup fruits",
+                    "Honey to taste"
+                ],
+                "procedure": [
+                    "1. Blend yogurt and fruits until smooth.",
+                    "2. Sweeten with honey, serve chilled."
+                ]
+            },
+            {
+                "name": "Mojito",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.IR6-nGiXnuM5VreqzetbzQHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "10 mint leaves",
+                    "1 lemon",
+                    "1 tsp sugar",
+                    "Soda water",
+                    "Ice cubes"
+                ],
+                "procedure": [
+                    "1. Muddle mint leaves, lemon juice, and sugar.",
+                    "2. Add ice cubes and top with soda water.",
+                    "3. Stir gently, serve chilled."
+                ]
+            },
+            {
+                "name": "Lassi",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.HQEDZzhGVwB5heiL74wQAgHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup yogurt",
+                    "1/2 cup water",
+                    "Sugar to taste",
+                    "Cardamom powder"
+                ],
+                "procedure": [
+                    "1. Blend yogurt with water, sugar, and cardamom.",
+                    "2. Serve chilled."
+                ]
+            },
+            {
+                "name": "Cold Coffee",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.d8ndOAHvrapAm7PZpyt8-QHaHZ?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup chilled milk",
+                    "2 tsp coffee powder",
+                    "2 tsp sugar",
+                    "Ice cubes",
+                    "Whipped cream (optional)"
+                ],
+                "procedure": [
+                    "1. Blend milk, coffee powder, sugar, and ice cubes.",
+                    "2. Pour into glass, top with whipped cream if desired.",
+                    "3. Serve immediately."
+                ]
+            },
+            {
+                "name": "Hot Chocolate",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.ne9_u2wepgj4f-ZDZb3iewHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup milk",
+                    "2 tsp cocoa powder",
+                    "1 tsp sugar",
+                    "Whipped cream (optional)"
+                ],
+                "procedure": [
+                    "1. Heat milk, add cocoa powder and sugar.",
+                    "2. Stir until fully dissolved.",
+                    "3. Serve hot, top with whipped cream."
+                ]
+            },
+            {
+                "name": "Green Smoothie",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.Y0-UKKoBt5vWImZwfZH7cgHaHO?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup spinach",
+                    "1 banana",
+                    "1/2 cup water or milk",
+                    "Honey if needed"
+                ],
+                "procedure": [
+                    "1. Blend spinach, banana, and water/milk until smooth.",
+                    "2. Sweeten with honey, serve chilled."
+                ]
+            }
+        ],
+        "Soups": [
+            {
+                "name": "Tomato Soup",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.kO410kKar4zK1QPmB71vigHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "4 tomatoes",
+                    "1 onion",
+                    "1 clove garlic",
+                    "1 tsp oil",
+                    "Salt and pepper to taste",
+                    "1 cup water or stock"
+                ],
+                "procedure": [
+                    "1. Heat oil, sauté onions and garlic until fragrant.",
+                    "2. Add chopped tomatoes, cook 5–7 minutes.",
+                    "3. Add water or stock, boil 10 minutes.",
+                    "4. Blend until smooth, season with salt and pepper.",
+                    "5. Serve hot."
+                ]
+            },
+            {
+                "name": "Chicken Soup",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.liz05ScTqQLiyvwe-R9MQAHaGM?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "200g chicken",
+                    "1 carrot",
+                    "1 onion",
+                    "1 stalk celery",
+                    "4 cups water",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Boil chicken with vegetables in water for 20–25 minutes.",
+                    "2. Remove chicken, shred if desired.",
+                    "3. Season with salt and pepper.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Mushroom Soup",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.HwpTIQmWHDFbTvq843zhewHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "200g mushrooms",
+                    "1 cup milk",
+                    "1 tsp butter",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Sauté mushrooms in butter until soft.",
+                    "2. Add milk, simmer 5–10 minutes.",
+                    "3. Blend until smooth, season with salt and pepper.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Sweet Corn Soup",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.ojQUWg7GxhAA4rIpsy3FAAHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup sweet corn",
+                    "1 onion chopped",
+                    "1 tsp ginger-garlic paste",
+                    "2 cups stock",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Sauté onion and ginger-garlic paste.",
+                    "2. Add corn and stock, cook 10 minutes.",
+                    "3. Blend half of the soup for creaminess.",
+                    "4. Season and serve hot."
+                ]
+            },
+            {
+                "name": "Vegetable Soup",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.qeyKy-exw3ezSu5JpjMLuwHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups mixed vegetables",
+                    "3 cups stock",
+                    "Salt and pepper",
+                    "Herbs"
+                ],
+                "procedure": [
+                    "1. Boil vegetables in stock until tender.",
+                    "2. Blend if desired for smooth texture.",
+                    "3. Season with salt, pepper, and herbs.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Chicken Noodle Soup",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.F8sf13p4-xqU6tOfvP09PgHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "100g chicken",
+                    "1 carrot",
+                    "1 onion",
+                    "1 cup noodles",
+                    "3 cups stock",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Boil chicken and vegetables in stock.",
+                    "2. Add noodles and cook until tender.",
+                    "3. Season and serve hot."
+                ]
+            },
+            {
+                "name": "Lentil Soup",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.kUaVMaksVKCeNvEZYQjX1QHaJ4?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup lentils",
+                    "1 onion",
+                    "2 cups water",
+                    "Spices",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Boil lentils with water until soft.",
+                    "2. Sauté onion with spices, add to cooked lentils.",
+                    "3. Blend if desired, season, and serve."
+                ]
+            },
+            {
+                "name": "Minestrone Soup",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.dO2jIhno8bEn3dD7o8PrWwHaLG?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup mixed vegetables",
+                    "1/2 cup pasta",
+                    "3 cups vegetable stock",
+                    "Tomato paste",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Boil vegetables in stock until tender.",
+                    "2. Add pasta and tomato paste, cook until pasta is done.",
+                    "3. Season and serve hot."
+                ]
+            },
+            {
+                "name": "Hot and Sour Soup",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.3kg3WnzKUTycRA5FJ0dH4gHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup mushrooms",
+                    "1/2 cup bamboo shoots",
+                    "1 tsp soy sauce",
+                    "1 tsp vinegar",
+                    "2 cups stock"
+                ],
+                "procedure": [
+                    "1. Boil mushrooms and bamboo shoots in stock.",
+                    "2. Add soy sauce and vinegar, simmer 5 minutes.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Pumpkin Soup",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.QPHPABM2sXGc4gPbUhJ3LAHaJQ?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup pumpkin cubes",
+                    "1 cup stock",
+                    "Salt and pepper",
+                    "Cream for garnish"
+                ],
+                "procedure": [
+                    "1. Boil pumpkin in stock until soft.",
+                    "2. Blend until smooth.",
+                    "3. Season, garnish with cream, serve hot."
+                ]
+            }
+        ],
+        "Salads": [
+            {
+                "name": "Vegetable Salad",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.S4UUGF22l7kWmmPEGP9sOwHaLH?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Cucumber",
+                    "Tomato",
+                    "Carrot",
+                    "Lettuce",
+                    "Salt",
+                    "Olive oil",
+                    "Lemon juice"
+                ],
+                "procedure": [
+                    "1. Chop all vegetables finely.",
+                    "2. Mix with olive oil, lemon juice, and salt.",
+                    "3. Serve fresh."
+                ]
+            },
+            {
+                "name": "Fruit Salad",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.SlP8IRWp0tLE0EAV0jVdswHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Apple",
+                    "Banana",
+                    "Orange",
+                    "Grapes",
+                    "Honey or sugar"
+                ],
+                "procedure": [
+                    "1. Chop fruits into small pieces.",
+                    "2. Drizzle with honey or sprinkle sugar.",
+                    "3. Mix gently and serve chilled."
+                ]
+            },
+            {
+                "name": "Pasta Salad",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.bHop3rzVTJ4B5NYlOvxRzgHaHs?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup boiled pasta",
+                    "1/2 cup chopped vegetables",
+                    "2 tbsp mayonnaise",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Mix boiled pasta and vegetables.",
+                    "2. Add mayonnaise, salt, and pepper.",
+                    "3. Toss well and serve chilled."
+                ]
+            },
+            {
+                "name": "Chicken Salad",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.ZnowBHw25Gwcudfhw_DNggHaFj?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup cooked shredded chicken",
+                    "1/2 cup chopped vegetables",
+                    "2 tbsp mayonnaise",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Mix chicken and vegetables.",
+                    "2. Add mayonnaise, salt, and pepper.",
+                    "3. Toss and serve chilled."
+                ]
+            },
+            {
+                "name": "Greek Salad",
+               "image":"https://tse2.mm.bing.net/th/id/OIP.qkdlEjDKqB1c0Vo8oK0HNwHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Cucumber",
+                    "Tomato",
+                    "Olives",
+                    "Feta cheese",
+                    "Olive oil",
+                    "Oregano"
+                ],
+                "procedure": [
+                    "1. Chop vegetables and cheese.",
+                    "2. Mix with olives, olive oil, and oregano.",
+                    "3. Serve fresh."
+                ]
+            },
+            {
+                "name": "Coleslaw",
+               "image":"https://tse4.mm.bing.net/th/id/OIP.koMZ6Cw5ySAPjwIzBAhf6gHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Cabbage shredded",
+                    "Carrot shredded",
+                    "Mayonnaise",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Mix cabbage and carrot.",
+                    "2. Add mayonnaise, salt, and pepper.",
+                    "3. Toss well and serve chilled."
+                ]
+            },
+            {
+                "name": "Bean Salad",
+               "image":"https://tse3.mm.bing.net/th/id/OIP.rRM-1hEinFHG9x1QE-BbSQHaLH?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup boiled beans",
+                    "1/2 cup chopped onion",
+                    "1/2 cup chopped tomato",
+                    "Olive oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Mix beans, onion, and tomato.",
+                    "2. Add olive oil and salt.",
+                    "3. Toss and serve."
+                ]
+            },
+            {
+                "name": "Cucumber Salad",
+               "image":"https://tse4.mm.bing.net/th/id/OIP.p1PgO24JDznR-9YWeWKoTwHaKY?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cucumber sliced",
+                    "1 tsp lemon juice",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Slice cucumber.",
+                    "2. Add lemon juice, salt, and pepper.",
+                    "3. Mix and serve chilled."
+                ]
+            },
+            {
+                "name": "Corn Salad",
+               "image":"https://tse2.mm.bing.net/th/id/OIP.6hMs1yV_QRPQZp5XxOiCxAHaLH?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup boiled corn",
+                    "1/2 cup chopped bell peppers",
+                    "1 tbsp mayonnaise",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Mix corn and bell peppers.",
+                    "2. Add mayonnaise, salt, and pepper.",
+                    "3. Toss well and serve."
+                ]
+            },
+            {
+                "name": "Avocado Salad",
+               "image":"https://tse4.mm.bing.net/th/id/OIP.3hfhWLzqp547PDfKULnUPwHaJQ?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 avocado chopped",
+                    "Tomato",
+                    "Onion",
+                    "Lemon juice",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Mix avocado, tomato, and onion.",
+                    "2. Add lemon juice, salt, and pepper.",
+                    "3. Serve immediately."
+                ]
+            }
+        ],
+        "Baked Dishes": [
+            {
+                "name": "Pizza",
+               "image":"https://tse3.mm.bing.net/th/id/OIP.RshZ9O7tlxkAWPuF7jKJxwHaE9?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 pizza base",
+                    "1/2 cup tomato sauce",
+                    "1 cup grated cheese",
+                    "Vegetable toppings as desired"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 200°C.",
+                    "2. Spread tomato sauce on pizza base.",
+                    "3. Add toppings and sprinkle grated cheese.",
+                    "4. Bake for 12–15 minutes until cheese melts and edges are golden.",
+                    "5. Slice and serve hot."
+                ]
+            },
+            {
+                "name": "Garlic Bread",
+               "image":"https://tse4.mm.bing.net/th/id/OIP.9427CeXc8r5MHazE7ZNDFQHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 baguette or bread loaf",
+                    "3 tbsp butter",
+                    "3 cloves garlic minced",
+                    "1 tsp parsley"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 180°C.",
+                    "2. Mix butter, garlic, and parsley.",
+                    "3. Spread on bread slices and bake 10 minutes.",
+                    "4. Serve hot as an appetizer."
+                ]
+            },
+            {
+                "name": "Cookies",
+               "image":"https://tse1.mm.bing.net/th/id/OIP.DvtMOyIlvS9WIwvBA_EI2AHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup flour",
+                    "1/2 cup sugar",
+                    "1/4 cup butter",
+                    "1/2 tsp baking powder",
+                    "1 tsp vanilla essence"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 180°C.",
+                    "2. Cream butter and sugar, add vanilla.",
+                    "3. Mix in flour and baking powder to form dough.",
+                    "4. Shape into cookies and bake 12–15 minutes.",
+                    "5. Cool and serve."
+                ]
+            },
+            {
+                "name": "Muffins",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.YiYLnso8xZQ8E9hRNMo4qwHaHa?pid=Api&P=0&h=180",             
+                "ingredients": [
+                    "1 cup flour",
+                    "1/2 cup sugar",
+                    "1/2 cup milk",
+                    "1/4 cup butter",
+                    "1 egg",
+                    "1 tsp baking powder"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 180°C.",
+                    "2. Mix wet ingredients: milk, egg, melted butter.",
+                    "3. Combine dry ingredients: flour, sugar, baking powder.",
+                    "4. Fold wet into dry, pour into muffin cups.",
+                    "5. Bake 15–20 minutes, cool, serve."
+                ]
+            },
+            {
+                "name": "Lasagna",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.oPbc0EV6an4-0u2EJ50wNgHaEl?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Lasagna sheets",
+                    "1 cup béchamel sauce",
+                    "1 cup tomato sauce",
+                    "1 cup cheese",
+                    "1 cup cooked vegetables or meat"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 180°C.",
+                    "2. Layer sheets, sauces, vegetables/meat, and cheese in baking dish.",
+                    "3. Repeat layers, finish with cheese on top.",
+                    "4. Bake 25–30 minutes until cheese is golden.",
+                    "5. Serve hot."
+                ]
+            },
+            {
+                "name": "Brownie",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.9s1A2r_kyY_lZcCAqdAHTgHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1/2 cup flour",
+                    "1/2 cup sugar",
+                    "1/4 cup cocoa powder",
+                    "1/4 cup butter",
+                    "2 eggs",
+                    "1/2 tsp vanilla"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 180°C.",
+                    "2. Melt butter, mix with sugar, cocoa, and vanilla.",
+                    "3. Beat in eggs, fold in flour.",
+                    "4. Pour into greased pan, bake 20–25 minutes.",
+                    "5. Cool, cut, and serve."
+                ]
+            },
+            {
+                "name": "Cheesecake",
+                "image":"https://up.yimg.com/ib/th/id/OIP.W3b68CVjlvB4DWla-CoYkgHaHa?pid=Api&rs=1&c=1&qlt=95&w=118&h=118",
+                "ingredients": [
+                    "1 cup cream cheese",
+                    "1/2 cup sugar",
+                    "1 egg",
+                    "1/2 cup crushed biscuits",
+                    "2 tbsp butter"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 160°C.",
+                    "2. Mix crushed biscuits with melted butter, press into pan for base.",
+                    "3. Beat cream cheese, sugar, and egg for filling.",
+                    "4. Pour over base, bake 25–30 minutes.",
+                    "5. Chill before serving."
+                ]
+            },
+            {
+                "name": "Quiche",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.ugkC8TogeEB3ZArB0chvbQHaKC?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 pre-baked pastry crust",
+                    "2 eggs",
+                    "1/2 cup milk",
+                    "1/2 cup vegetables/meat",
+                    "1/2 cup cheese"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 180°C.",
+                    "2. Whisk eggs and milk, season with salt and pepper.",
+                    "3. Add vegetables/meat and cheese, pour into crust.",
+                    "4. Bake 25–30 minutes until set.",
+                    "5. Serve warm."
+                ]
+            },
+            {
+                "name": "Bread Pudding",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.YjaDZFch1pDybM-WJfoO7QHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "6 slices bread",
+                    "2 cups milk",
+                    "1/2 cup sugar",
+                    "2 eggs",
+                    "1 tsp vanilla"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 180°C.",
+                    "2. Tear bread into cubes.",
+                    "3. Mix milk, sugar, eggs, vanilla.",
+                    "4. Pour mixture over bread, let soak 10 minutes.",
+                    "5. Bake 30–35 minutes, serve warm."
+                ]
+            },
+            {
+                "name": "Apple Pie",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.VVYhG49E_-FbHaMTiZxZYQHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 pie crust",
+                    "2 cups sliced apples",
+                    "1/2 cup sugar",
+                    "1 tsp cinnamon",
+                    "1 tbsp flour"
+                ],
+                "procedure": [
+                    "1. Preheat oven to 190°C.",
+                    "2. Toss apples with sugar, flour, and cinnamon.",
+                    "3. Fill pie crust with apple mixture, cover with top crust.",
+                    "4. Bake 35–40 minutes until golden.",
+                    "5. Cool slightly and serve."
+                ]
+            }
+        ],
+        "Non-Veg Recipes": [
+            {
+                "name": "Chicken Curry",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.nTT5tvHk0Up59zRcC6oEygHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "500g chicken",
+                    "2 onions chopped",
+                    "2 tomatoes chopped",
+                    "1 tbsp ginger-garlic paste",
+                    "Spices: turmeric, chili, coriander",
+                    "Oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Heat oil, sauté onions until golden.",
+                    "2. Add ginger-garlic paste, cook 1–2 minutes.",
+                    "3. Add tomatoes and spices, cook until oil separates.",
+                    "4. Add chicken, cook 10–15 minutes.",
+                    "5. Add water, simmer 20 minutes until tender.",
+                    "6. Serve hot with rice or roti."
+                ]
+            },
+            {
+                "name": "Mutton Curry",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.dYhB3HQ-dNMz4TXEmoOX8AHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "500g mutton",
+                    "2 onions",
+                    "2 tomatoes",
+                    "Spices",
+                    "Oil",
+                    "Salt",
+                    "Water"
+                ],
+                "procedure": [
+                    "1. Heat oil, sauté onions until golden.",
+                    "2. Add spices, tomatoes, and cook 5 minutes.",
+                    "3. Add mutton and water, pressure cook 20 minutes.",
+                    "4. Check tenderness, simmer if needed.",
+                    "5. Serve hot."
+                ]
+            },
+            {
+                "name": "Fish Fry",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.Y-OWIhDJk5FmLnbSPKpYqgHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "4 fish fillets",
+                    "1 tsp turmeric",
+                    "1 tsp chili powder",
+                    "Salt",
+                    "Oil for frying"
+                ],
+                "procedure": [
+                    "1. Marinate fish with turmeric, chili, and salt 15 minutes.",
+                    "2. Heat oil in pan, shallow fry fish 3–4 minutes per side.",
+                    "3. Serve hot with lemon wedges."
+                ]
+            },
+            {
+                "name": "Prawns Fry",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.Xqb-bg0JkzBIC_XZHYU6YgHaFV?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "200g prawns",
+                    "1 tsp chili powder",
+                    "1/2 tsp turmeric",
+                    "Salt",
+                    "Oil"
+                ],
+                "procedure": [
+                    "1. Marinate prawns with spices.",
+                    "2. Heat oil and fry prawns 5–7 minutes until cooked.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Egg Curry",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.2nMDNL-epjyA_aypL7XAcQHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "4 boiled eggs",
+                    "2 onions",
+                    "2 tomatoes",
+                    "1 tbsp ginger-garlic paste",
+                    "Spices",
+                    "Oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Sauté onions and ginger-garlic paste in oil.",
+                    "2. Add tomatoes and spices, cook 5 minutes.",
+                    "3. Add water to make gravy.",
+                    "4. Add boiled eggs, simmer 5 minutes.",
+                    "5. Serve hot."
+                ]
+            },
+            {
+                "name": "Grilled Chicken",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.wPml75OhoTt9sr-90sTBJwHaE5?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "500g chicken breast",
+                    "1/2 cup yogurt",
+                    "Spices for marination",
+                    "1 tbsp oil"
+                ],
+                "procedure": [
+                    "1. Marinate chicken in yogurt and spices 1–2 hours.",
+                    "2. Preheat grill or oven to 200°C.",
+                    "3. Grill chicken 10–15 minutes per side until cooked.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Butter Chicken",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.yqfGZFlMqM2hUWX-zgF_OgHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "500g chicken",
+                    "1/2 cup butter",
+                    "1 cup tomato puree",
+                    "1/2 cup cream",
+                    "Spices",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Cook chicken in butter until lightly browned.",
+                    "2. Add tomato puree and spices, simmer 10 minutes.",
+                    "3. Stir in cream, cook 5 minutes.",
+                    "4. Serve hot with naan or rice."
+                ]
+            },
+            {
+                "name": "Chicken Biryani",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.2iWS4NJfB5y_mu30Nsq_bwHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "500g chicken",
+                    "2 cups basmati rice",
+                    "Spices",
+                    "Fried onions",
+                    "Yogurt",
+                    "Oil"
+                ],
+                "procedure": [
+                    "1. Marinate chicken with yogurt and spices 1 hour.",
+                    "2. Cook rice until 70% done.",
+                    "3. Layer chicken and rice, add fried onions.",
+                    "4. Cook on low flame (dum) 20 minutes.",
+                    "5. Serve hot."
+                ]
+            },
+            {
+                "name": "Grilled Fish",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.oqfiLRQ8Q-yWhHbNvBmNRAHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "4 fish fillets",
+                    "1 tbsp lemon juice",
+                    "Spices",
+                    "Oil"
+                ],
+                "procedure": [
+                    "1. Marinate fish with lemon juice and spices.",
+                    "2. Preheat grill, cook 5–7 minutes per side.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Chicken Soup",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.liz05ScTqQLiyvwe-R9MQAHaGM?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "200g chicken",
+                    "1 carrot",
+                    "1 onion",
+                    "1 celery stalk",
+                    "4 cups water",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Boil chicken with vegetables in water 20 minutes.",
+                    "2. Shred chicken, season with salt and pepper.",
+                    "3. Serve hot."
+                ]
+            }
+        ],
+        "Veg Recipes": [
+            {
+                "name": "Paneer Butter Masala",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.3fROpInSzgY--B1msdJITQHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "200g paneer cubes",
+                    "1/2 cup butter",
+                    "1 cup tomato puree",
+                    "1/4 cup cream",
+                    "Spices",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Heat butter, add tomato puree and spices, cook 5 minutes.",
+                    "2. Add paneer cubes, simmer 10 minutes.",
+                    "3. Stir in cream, cook 2 minutes.",
+                    "4. Serve hot with naan or rice."
+                ]
+            },
+            {
+                "name": "Dal Tadka",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.dkMSAfIB56j5IB9QPWIEIAHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup yellow dal",
+                    "1 onion",
+                    "1 tomato",
+                    "1 tsp cumin seeds",
+                    "2 tbsp oil",
+                    "Salt",
+                    "Spices"
+                ],
+                "procedure": [
+                    "1. Boil dal until soft.",
+                    "2. Heat oil, add cumin, onion, and tomato, sauté.",
+                    "3. Add spices, pour over dal.",
+                    "4. Mix and serve hot."
+                ]
+            },
+            {
+                "name": "Rajma Masala",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.IC2ZM8fgTP8jXMx59n3qzwHaFj?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup kidney beans soaked overnight",
+                    "2 onions",
+                    "2 tomatoes",
+                    "Spices",
+                    "Oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Pressure cook rajma until soft.",
+                    "2. Heat oil, sauté onions, add tomatoes and spices.",
+                    "3. Add rajma, simmer 10 minutes.",
+                    "4. Serve hot with rice."
+                ]
+            },
+            {
+                "name": "Chole",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.6rjs3PXejzSUFHssWi4wigHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup chickpeas soaked overnight",
+                    "2 onions",
+                    "2 tomatoes",
+                    "Spices",
+                    "Oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Pressure cook chickpeas until soft.",
+                    "2. Heat oil, sauté onions and tomatoes with spices.",
+                    "3. Add chickpeas, simmer 10 minutes.",
+                    "4. Serve hot with bhature or rice."
+                ]
+            },
+            {
+                "name": "Mixed Vegetable Curry",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.wFZrjOJqhRGcuduv9yIb1AHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups mixed vegetables",
+                    "1 onion",
+                    "2 tomatoes",
+                    "Spices",
+                    "Oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Heat oil, sauté onions and tomatoes with spices.",
+                    "2. Add vegetables, cook 10–15 minutes until tender.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Palak Paneer",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.kt8jv6MESkmaaxYSdlOr3wHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "200g paneer",
+                    "2 cups spinach",
+                    "1 onion",
+                    "1 tomato",
+                    "Spices",
+                    "Oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Blanch spinach and blend into puree.",
+                    "2. Heat oil, sauté onions and tomatoes with spices.",
+                    "3. Add spinach puree and paneer cubes, cook 5 minutes.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Aloo Gobi",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.j2h68bZCreyFYuJnd50AHgHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup cauliflower",
+                    "1 cup potatoes",
+                    "1 onion",
+                    "Spices",
+                    "Oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Heat oil, sauté onions with spices.",
+                    "2. Add potatoes and cauliflower, cook until tender.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Baingan Bharta",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.9SS1y7aLGiGfhqzqmuW4XAHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 large eggplant",
+                    "1 onion",
+                    "2 tomatoes",
+                    "Spices",
+                    "Oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Roast eggplant until charred, peel and mash.",
+                    "2. Heat oil, sauté onions and tomatoes with spices.",
+                    "3. Add mashed eggplant, cook 5 minutes.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Matar Paneer",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.KX82zVuC6U9RkWLQlYwhOAHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "200g paneer",
+                    "1 cup peas",
+                    "1 onion",
+                    "2 tomatoes",
+                    "Spices",
+                    "Oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Heat oil, sauté onions and tomatoes with spices.",
+                    "2. Add peas and cook 5 minutes.",
+                    "3. Add paneer cubes, simmer 5 minutes.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Kadhi Pakora",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.ja-WlnBt9sVSIU4M3z1UcgHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup gram flour",
+                    "1 cup yogurt",
+                    "2 cups water",
+                    "Spices",
+                    "Oil"
+                ],
+                "procedure": [
+                    "1. Mix gram flour and yogurt with water to make kadhi.",
+                    "2. Prepare pakoras by mixing gram flour, onion, and spices.",
+                    "3. Fry pakoras until golden.",
+                    "4. Boil kadhi, add pakoras, cook 5 minutes.",
+                    "5. Serve hot with rice."
+                ]
+            }
+        ],
+        "Rice Recipes": [
+            {
+                "name": "Biryani",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.vAdIL75Pdi_FkOpNGTyukwHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "500g chicken or vegetables",
+                    "Spices",
+                    "Fried onions",
+                    "Yogurt",
+                    "Oil"
+                ],
+                "procedure": [
+                    "1. Marinate chicken/vegetables with yogurt and spices 1 hour.",
+                    "2. Cook rice until 70% done.",
+                    "3. Layer rice and chicken/vegetables, add fried onions.",
+                    "4. Cook on low flame (dum) 20 minutes.",
+                    "5. Serve hot."
+                ]
+            },
+            {
+                "name": "Pulao",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.SWgYokGlOpxD7sNiWtFG9wHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups rice",
+                    "1 cup mixed vegetables",
+                    "Spices",
+                    "Oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Heat oil, sauté vegetables and spices.",
+                    "2. Add rice, stir, add water, cook until rice is done.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Fried Rice",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.ug7mcOMWDCGNYWMVONgcgwHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups cooked rice",
+                    "1 cup mixed vegetables",
+                    "Soy sauce",
+                    "Oil",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Heat oil, sauté vegetables.",
+                    "2. Add rice and soy sauce, stir-fry 5–7 minutes.",
+                    "3. Season with salt and pepper, serve hot."
+                ]
+            },
+            {
+                "name": "Curd Rice",
+               "image":"https://tse3.mm.bing.net/th/id/OIP.vg4ZQQ4__s2Q37e1TrveGQHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups cooked rice",
+                    "1 cup yogurt",
+                    "Salt",
+                    "Green chili",
+                    "Coriander",
+                    "Tempering: mustard, curry leaves, oil"
+                ],
+                "procedure": [
+                    "1. Mix rice with yogurt and salt.",
+                    "2. Prepare tempering, add to rice, mix well.",
+                    "3. Garnish with coriander, serve chilled or warm."
+                ]
+            },
+            {
+                "name": "Lemon Rice",
+               "image":"https://tse4.mm.bing.net/th/id/OIP.DHXeLgNrxvn9GHh-dSvJjQHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups cooked rice",
+                    "1 tbsp lemon juice",
+                    "Tempering: mustard seeds, curry leaves, green chili, oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Heat oil, add tempering ingredients.",
+                    "2. Add rice and lemon juice, mix well.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Tamarind Rice",
+               "image":"https://tse2.mm.bing.net/th/id/OIP.Gg-m7lgQ45eRt9bKelBzlgAAAA?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups cooked rice",
+                    "2 tbsp tamarind paste",
+                    "Spices",
+                    "Oil",
+                    "Salt",
+                    "Peanuts"
+                ],
+                "procedure": [
+                    "1. Heat oil, add spices and tamarind paste.",
+                    "2. Add rice, mix well.",
+                    "3. Garnish with roasted peanuts, serve hot."
+                ]
+            },
+            {
+                "name": "Vegetable Biryani",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.Vjw4yJSpw3yeD_2RhCLZpgHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "2 cups mixed vegetables",
+                    "Spices",
+                    "Fried onions",
+                    "Oil"
+                ],
+                "procedure": [
+                    "1. Sauté vegetables with spices.",
+                    "2. Layer rice and vegetables, add fried onions.",
+                    "3. Cook on low flame (dum) 20 minutes.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Coconut Rice",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.5JQ9eGlAlB_b9_pNn914PwHaFj?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups cooked rice",
+                    "1/2 cup grated coconut",
+                    "Tempering: mustard seeds, curry leaves, oil",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Heat oil, add tempering ingredients.",
+                    "2. Add grated coconut, sauté briefly.",
+                    "3. Mix with rice, serve hot."
+                ]
+            },
+            {
+                "name": "Jeera Rice",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.x-B6aFbqZgUhwMkru4OH1gHaG7?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups basmati rice",
+                    "1 tsp cumin seeds",
+                    "1 tbsp ghee/oil",
+                    "Salt",
+                    "Water"
+                ],
+                "procedure": [
+                    "1. Heat ghee/oil, add cumin seeds.",
+                    "2. Add rice, sauté briefly.",
+                    "3. Add water, cook until rice is fluffy.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Vegetable Khichdi",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.V_mfxiuEvgN_MVIhkn4lmgHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup rice",
+                    "1/2 cup moong dal",
+                    "Mixed vegetables",
+                    "Spices",
+                    "Salt",
+                    "Water"
+                ],
+                "procedure": [
+                    "1. Rinse rice and dal, set aside.",
+                    "2. Heat oil, sauté vegetables and spices.",
+                    "3. Add rice, dal, and water, cook until soft.",
+                    "4. Serve hot."
+                ]
+            }
+        ],
+        
+        "Street Food": [
+            {
+                "name": "Pani Puri",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.vUH5j3UJ_dpS-o5VW0HNzgHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "20 puris",
+                    "1 cup spiced water",
+                    "1 cup mashed potatoes",
+                    "1 cup sprouted moong",
+                    "Chutneys"
+                ],
+                "procedure": [
+                    "1. Crack a small hole in puris.",
+                    "2. Fill with potatoes and sprouts.",
+                    "3. Dip in spiced water, serve immediately."
+                ]
+            },
+            {
+                "name": "Pav Bhaji",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.4IKmDV1zVkfW-rbiiCbEEwHaFP?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "2 cups mixed vegetables",
+                    "2 tbsp butter",
+                    "Pav buns",
+                    "Spices",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Boil and mash vegetables.",
+                    "2. Cook in butter with spices 10 minutes.",
+                    "3. Serve with buttered pav buns."
+                ]
+            },
+            {
+                "name": "Vada Pav",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.yiPXfDzvuiORQ1iEvm4uqwHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Potato vada",
+                    "Pav buns",
+                    "Chutneys",
+                    "Oil"
+                ],
+                "procedure": [
+                    "1. Deep fry spiced potato vadas.",
+                    "2. Place in pav buns, add chutneys.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Momos",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.JUuL54mcAihqYBzvCoHuEAHaFj?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Dough for wrappers",
+                    "Vegetable or chicken filling",
+                    "Spices"
+                ],
+                "procedure": [
+                    "1. Roll dough into circles.",
+                    "2. Fill with stuffing, shape momos.",
+                    "3. Steam for 10–12 minutes.",
+                    "4. Serve hot with chutney."
+                ]
+            },
+            {
+                "name": "Rolls",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.X8iaPKnWQJM-5Sf2-ysIXwHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Roti",
+                    "Chicken or veg filling",
+                    "Spices",
+                    "Sauces"
+                ],
+                "procedure": [
+                    "1. Place filling on roti.",
+                    "2. Roll tightly and grill slightly.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Chaat",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.PJo0yQd0f8myJ4EJQ6VWxQHaEo?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Papdi",
+                    "Boiled potatoes",
+                    "Chickpeas",
+                    "Yogurt",
+                    "Chutneys",
+                    "Spices"
+                ],
+                "procedure": [
+                    "1. Layer papdi with potatoes and chickpeas.",
+                    "2. Add yogurt, chutneys, and spices.",
+                    "3. Serve immediately."
+                ]
+            },
+            {
+                "name": "Corn Chaat",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.K-aysiQiTYZ1eg6lWnfkEwHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Boiled corn",
+                    "Onions",
+                    "Tomatoes",
+                    "Lemon juice",
+                    "Spices"
+                ],
+                "procedure": [
+                    "1. Mix corn with chopped onions, tomatoes.",
+                    "2. Add lemon juice and spices.",
+                    "3. Serve chilled or warm."
+                ]
+            },
+            {
+                "name": "Aloo Tikki",
+                "image":"https://tse4.mm.bing.net/th/id/OIP.3w9bIJ0aHydMmJYF9gwX4AHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Boiled potatoes",
+                    "Spices",
+                    "Oil"
+                ],
+                "procedure": [
+                    "1. Mash potatoes and mix with spices.",
+                    "2. Shape into patties.",
+                    "3. Shallow fry until golden.",
+                    "4. Serve with chutneys."
+                ]
+            },
+            {
+                "name": "Chilli Paneer",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.oFI3CA112vnEZzOl6b6E_QHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "200g paneer cubes",
+                    "Capsicum",
+                    "Onions",
+                    "Soy sauce",
+                    "Chili sauce",
+                    "Oil"
+                ],
+                "procedure": [
+                    "1. Fry paneer cubes until golden.",
+                    "2. Sauté capsicum and onions in oil.",
+                    "3. Add sauces, toss with paneer.",
+                    "4. Serve hot."
+                ]
+            },
+            {
+                "name": "Sev Puri",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.9oaL80EYQmUo2QmgPxCIygHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Puri",
+                    "Boiled potatoes",
+                    "Chutneys",
+                    "Sev",
+                    "Onions"
+                ],
+                "procedure": [
+                    "1. Top puris with potatoes, onions, and chutneys.",
+                    "2. Sprinkle sev on top.",
+                    "3. Serve immediately."
+                ]
+            }
+        ],
+        "Healthy Recipes": [
+            {
+                "name": "Oats Porridge",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.RpR1i257GkN811i4F1kstQHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup oats",
+                    "2 cups milk or water",
+                    "Honey or fruits for topping"
+                ],
+                "procedure": [
+                    "1. Boil milk or water.",
+                    "2. Add oats and cook until thick.",
+                    "3. Sweeten with honey and top with fruits.",
+                    "4. Serve warm."
+                ]
+            },
+            {
+                "name": "Grilled Chicken Salad",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.va6aQpwNuQKBRp56i5y_2AHaLH?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "100g grilled chicken",
+                    "Lettuce",
+                    "Cucumber",
+                    "Tomatoes",
+                    "Olive oil",
+                    "Lemon juice"
+                ],
+                "procedure": [
+                    "1. Chop vegetables and place in bowl.",
+                    "2. Add grilled chicken slices.",
+                    "3. Drizzle olive oil and lemon juice, toss.",
+                    "4. Serve immediately."
+                ]
+            },
+            {
+                "name": "Vegetable Stir Fry",
+                "image":"https://tse4.mm.bing.net/th/id/OIP._dpP6W5MUeTHtp6wXaabYAHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Mixed vegetables",
+                    "Olive oil",
+                    "Soy sauce",
+                    "Salt and pepper"
+                ],
+                "procedure": [
+                    "1. Heat oil, add vegetables, stir-fry 5–7 minutes.",
+                    "2. Add soy sauce and seasonings, toss well.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Smoothie Bowl",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.HuvmX-TA8O5DyM06bNh5ewHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 banana",
+                    "1/2 cup yogurt",
+                    "Fruits for toppings",
+                    "Chia seeds"
+                ],
+                "procedure": [
+                    "1. Blend banana and yogurt to make thick smoothie.",
+                    "2. Pour into bowl, top with fruits and chia seeds.",
+                    "3. Serve chilled."
+                ]
+            },
+            {
+                "name": "Quinoa Salad",
+                "image":"https://tse1.mm.bing.net/th/id/OIP.T6eB71MOGdb6MxDH0sN98QHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup cooked quinoa",
+                    "Cucumber",
+                    "Tomatoes",
+                    "Olive oil",
+                    "Lemon juice",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Mix cooked quinoa with chopped vegetables.",
+                    "2. Add olive oil, lemon juice, and salt.",
+                    "3. Serve fresh."
+                ]
+            },
+            {
+                "name": "Grilled Fish",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.oqfiLRQ8Q-yWhHbNvBmNRAHaEK?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "200g fish fillet",
+                    "Lemon juice",
+                    "Spices",
+                    "Oil"
+                ],
+                "procedure": [
+                    "1. Marinate fish with lemon juice and spices.",
+                    "2. Grill until cooked through.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Vegetable Soup",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.qeyKy-exw3ezSu5JpjMLuwHaE8?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Carrots",
+                    "Beans",
+                    "Tomatoes",
+                    "Salt",
+                    "Pepper",
+                    "Water"
+                ],
+                "procedure": [
+                    "1. Boil all vegetables in water until tender.",
+                    "2. Blend partially, season with salt and pepper.",
+                    "3. Serve hot."
+                ]
+            },
+            {
+                "name": "Fruit Salad",
+                "image":"https://tse2.mm.bing.net/th/id/OIP.X9zwhDcqvBqQrGEbg4BFYQHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "Mixed seasonal fruits",
+                    "Honey or lemon juice"
+                ],
+                "procedure": [
+                    "1. Chop fruits into bite-sized pieces.",
+                    "2. Drizzle honey or lemon juice.",
+                    "3. Toss and serve."
+                ]
+            },
+            {
+                "name": "Sprouts Salad",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.7DEqf561uDsfQM7j29YcnQHaHa?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "1 cup mixed sprouts",
+                    "Cucumber",
+                    "Tomato",
+                    "Onion",
+                    "Lemon juice",
+                    "Salt"
+                ],
+                "procedure": [
+                    "1. Mix sprouts with chopped vegetables.",
+                    "2. Add lemon juice and salt, toss well.",
+                    "3. Serve fresh."
+                ]
+            },
+            {
+                "name": "Chia Pudding",
+                "image":"https://tse3.mm.bing.net/th/id/OIP.JJT-pYzOLCtrkP71lSImbAHaLH?pid=Api&P=0&h=180",
+                "ingredients": [
+                    "3 tbsp chia seeds",
+                    "1 cup milk",
+                    "Honey",
+                    "Fruits"
+                ],
+                "procedure": [
+                    "1. Mix chia seeds with milk, let soak overnight.",
+                    "2. Sweeten with honey, top with fruits.",
+                    "3. Serve chilled."
+                ]
+            }
+        ]
+    }
+}
